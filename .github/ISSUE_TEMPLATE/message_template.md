@@ -2,7 +2,7 @@
 name: Message Template
 about: Leave a message or feedback
 title: "[New Offer]"
-labels: enhancement, help wanted, question
+labels: help wanted
 assignees: ''
 
 ---
