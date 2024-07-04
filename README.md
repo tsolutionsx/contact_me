@@ -5,7 +5,7 @@ Your insights and creative concepts are valuable, and I am eager to discuss them
 
 ***you can leave messages me for your idea &amp; project. Here’s how you can get in touch:***
 
-- **Report your idea**: [Create a new idea](https://github.com/tsolutionsx/messenger/issues)
+- **Leave Message**: [Create a new idea](https://github.com/tsolutionsx/messenger/issues)
 - **Join a Discussion**: [Start or join a discussion](https://github.com/tsolutionsx/messenger/discussions)
 
 
